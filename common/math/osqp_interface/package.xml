@@ -13,4 +13,5 @@
   </export>
 
   <depend>rclcpp</depend>
+  <depend>osqp_vendor</depend>
 </package>
